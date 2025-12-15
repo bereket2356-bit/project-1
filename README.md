@@ -22,7 +22,7 @@ This is a **mini personal profile website project** built using **HTML, CSS, and
 ```
 project-folder/
 │── h.html
-│── styleshhet.css
+│── stylesheet.css
 │── script.js
 │── README.md
 ```
